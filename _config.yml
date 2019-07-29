@@ -4,7 +4,5 @@ theme: jekyll-theme-midnight
 relative_links:
   enabled: true
   collections: true
-include:
-  - README.md 
 title: Code candy can
 description: Pieces of code I don’t want to lose
