@@ -5,7 +5,7 @@ description: Pieces of code I don’t want to lose
 #markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-seo-tagplugins:
+  - jekyll-seo-tagplugins
   - jekyll-relative-links
 
 collections:
