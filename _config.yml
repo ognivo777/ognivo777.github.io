@@ -6,3 +6,5 @@ relative_links:
   collections: true
 include:
   - README.md 
+title: Code candy can
+description: Pieces of code I don’t want to lose
