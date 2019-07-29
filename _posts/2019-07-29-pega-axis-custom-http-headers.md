@@ -1,4 +1,7 @@
-# How-to add custom HTTP header to each SOAP request in Pega PRPC
+---
+layout: post
+title:  "How-to add custom HTTP header to each SOAP request in Pega PRPC"
+---
 Open rule **ACTIVITY Rule-Connect-SOAP • InvokeAxis2 ** and add **java** step before the step with description like "*Invoke the remote web service*" with next content:
 ```java
 //prepare some data for audit (not in scope) and used in headers
