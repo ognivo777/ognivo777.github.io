@@ -1,10 +1,8 @@
 title: Code candy can
 description: Pieces of code I don’t want to lose
-
-baseurl: "/jekyll-blog-example"
-
+#baseurl: "/jekyll-blog-example"
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tagplugins:
